@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Supermercado+One');
+
+/* Use the 'Lato' font family at 18px throughout the body of the document, and cover the background with the 'map-bg.jpg' image. */
+*{ 
+    background-image:url("img/map-bg.jpg");
+    font-family:Lato, sans-serif;
+    font-size: 18px;
+}
 /* Use the 'Supermercado One' font at 45px (colored #5d4037) for the restaurant name. */
 h1 {
     font-family: 'Supermercado One', cursive;    
