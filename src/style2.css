@@ -24,6 +24,8 @@ section {margin-bottom: 20px; padding: 10px;}
 /* Show each of the section headings of the menu (e.g. "Starters") in uppercase. */
 h2 {
     margin-top: 0;
+    text-transform: uppercase;
+
 }
 /* Make the name of each menu item appear in bold in a 16px size. */
 dt {display: inline;
